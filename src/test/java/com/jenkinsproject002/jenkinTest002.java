@@ -9,5 +9,10 @@ public class jenkinTest002 {
 	{
 		System.out.println("hi iam jenkin 02");
 	}
+	@Test
+	public void jenkinmethodTest2()
+	{
+		System.out.println("hi iam jenkin 02111");
+	}
 
 }
